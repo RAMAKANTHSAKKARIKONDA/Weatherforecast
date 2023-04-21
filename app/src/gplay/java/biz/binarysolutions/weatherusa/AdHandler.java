@@ -1,4 +1,4 @@
-package com.example.weatherusa;
+package com.example.weatherforecast;
 
 import android.app.Activity;
 
